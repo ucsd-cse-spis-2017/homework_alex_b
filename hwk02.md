@@ -20,7 +20,8 @@
 
     Write an example of each of these kinds of while loops in Python. Try them in IDLE and see what happens.
     Never Executed: While true == false:
-    Finite: While Count < 3
+    Finite: While Count < 3:   
+                Count = Count - 1
       
 
     (10 pts) Try the first “finger exercise” on p. 24.
