@@ -22,6 +22,8 @@
     Never Executed: While true == false:
     Finite: While Count < 3:   
                 Count = Count - 1
+    Infinite While true == true:
+                print("MOONDOGGY")
       
 
     (10 pts) Try the first “finger exercise” on p. 24.
