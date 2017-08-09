@@ -17,6 +17,8 @@ Problem 2:
     Multiply the first numbers leading digits and the last numbers end digits, multiply by 10^3
     Multiply the second numbers leading digits and the first numbers end digits and multiply it by 10^3
     Add them sequentially in 3 additions and that gives you an answer
-
+ Problem 3:
+  A) The parameters for any line is must have n>=1 heads and n%2 != 0.
+     The algorithm to pull heads just involves pulling heads from either side picking one or the other and sticking with it.
     
  
